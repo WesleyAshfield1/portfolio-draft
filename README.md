@@ -1,1 +1,3 @@
-# Challenge2-AdvanceCSS
+# Portfolio Draft
+
+## Used Advance CSS to create a starter portfolio
